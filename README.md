@@ -28,10 +28,14 @@ I don’t just code — I design systems that think, adapt, and evolve.
 🧰 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,cs,java,arduino,ps,git,github" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="48" />
-</p>
+  <!-- Main stack -->
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,cs,java,arduino,ps" />
 
+  <!-- Game Engines -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="45" />
+</p>
 ---
 
 📊 GitHub Stats
