@@ -83,8 +83,9 @@ Exploring immersive gameplay mechanics and creative storytelling.
 
 <p align="center">
   <a href="mailto:atharvanaman14@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 
   <a href="https://github.com/atharvanaman">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
