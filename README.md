@@ -1,3 +1,4 @@
+![Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 ⚡ Hey, I'm Atharva (Stark)
 
 🚀 AI Developer | Game Developer | Future Systems Architect
