@@ -1,8 +1,12 @@
-![Cyberpunk](https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
+</p>
 
+<h1 align="center">⚡ Atharva Naman [STARK]</h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=800&lines=Initializing+System...;Atharva+Naman+Online;AI+Developer;Building+the+Future...)
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=Initializing+System...;AI+Developer;Game+Developer;Programmer;Innovator;Building+the+Future..." />
+</p>
 
 ⚡ Hey, I'm Atharva (Stark)
 
