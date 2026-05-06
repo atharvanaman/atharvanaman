@@ -1,4 +1,8 @@
-![Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![HUD](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=800&lines=Initializing+System...;Atharva+Naman+Online;AI+Developer;Building+the+Future...)
+
+
 ⚡ Hey, I'm Atharva (Stark)
 
 🚀 AI Developer | Game Developer | Future Systems Architect
