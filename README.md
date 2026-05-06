@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2l0YWxkNTVuYW91Z3k2YnZyY2thZXEzZm13Zm0zenk1c3ZqejNmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="100%" />
 </p>
+
 
 <h1 align="center">⚡ Atharva Naman [STARK]</h1>
 
