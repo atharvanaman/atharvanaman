@@ -27,7 +27,10 @@ I don’t just code — I design systems that think, adapt, and evolve.
 
 🧰 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=python,cpp,js,html,css,git,github,arduino,react,nodejs)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,cs,java,arduino,ps,git,github" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="48" />
+</p>
 
 ---
 
