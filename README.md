@@ -75,6 +75,7 @@ Exploring immersive gameplay mechanics and creative storytelling.
 
 ⚡ Philosophy
 
+> "A programmer is not someone who writes the code but knows how the code works." 
 > “Don’t just use technology. Build it. Shape it. Become it.”
 
 ---
